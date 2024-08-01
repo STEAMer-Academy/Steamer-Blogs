@@ -8,4 +8,13 @@ This repo has blogs of different subjects, made my our officers. You are free To
 - Math ➕
 
 - English
-   
+
+
+
+# Join Us !
+
+You are free to read everything, and learn. We are in discord too. Here is the invite link, go there by clicking [here](https://discord.gg/HNhjQAfq9U). This blogs are also posted in the website. 
+
+We have a website, too. Go there by clicking [here](https://steamer.wordpress.com).
+
+
