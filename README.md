@@ -22,6 +22,7 @@ This repo has blogs of different subjects, made my our officers. You are free To
 
 
 - English
+  - [Noun: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%201/Noun-1.md)
 
 
 # Join Us !
