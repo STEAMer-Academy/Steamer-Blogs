@@ -2,17 +2,26 @@
 
 This repo has blogs of different subjects, made my our officers. You are free To read. This are the blogs that are available right now.
 
-- Technology ⚙️
-  - [Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Part%201.md)
+- Science
+  -Biology
+    - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Biology/Part%201/BIOLOGY.md)
+
  
+- Technology ⚙️
+  - Computers
+    - [Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Part%201.md)
+
+
+- Engineering
+  - [Engineering: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%201/Engineering%20Blog%20Part.%201.md)
+
+
 - Math ➕
-  - [Geometry: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Geometry/Part%201/GEOMETRY.md)
+  - Geometry
+    - [Geometry: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Geometry/Part%201/GEOMETRY.md)
+
 
 - English
-
-- Science
-  - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Biology/Part%201/BIOLOGY.md)
-
 
 
 # Join Us !
