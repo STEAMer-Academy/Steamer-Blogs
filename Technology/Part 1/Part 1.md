@@ -2,13 +2,13 @@
 
 ## What is a computer?
 
-<img src="https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Images/image%201.jpeg?raw=true" alt="Image 1" width="70%">
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/main/Technology/Part%201/Images/image%201.jpeg" alt="Image 1" width="70%">
 
 A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks.
 
 ### Types Of computers
 
-<img src="https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Images/Diagrams/Diagram%201.png">
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/main/Technology/Part%201/Images/Diagrams/Diagram%201.png">
 
 There are many different types of computers, each with its own strengths and weaknesses. Some of the most common types of computers include:
 
@@ -34,7 +34,7 @@ Programming is the process of creating a set of instructions that tell a compute
 
 ### Types Of Programming
 
-<img src="https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Images/Diagrams/Diagram%202.png">
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/main/Technology/Part%201/Images/Diagrams/Diagram%202.png">
 
 There are many different types of programming, each with its own strengths and weaknesses. Some of the most common types of programming include:
 
