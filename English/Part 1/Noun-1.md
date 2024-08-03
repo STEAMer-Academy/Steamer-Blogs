@@ -33,11 +33,18 @@ Example: *boy, city, car*
 
 Note: Proper Noun always starts with capital letter but it is not same in case of Common Noun.
 
-3. **Concrete Nouns:** 
-Nouns that represent physical objects that can be perceived by the senses.
-Example: *table, flower, mountain* 
 
-6. **Material Noun:**
+3. **Collective Nouns:**
+Nouns that refer to a group of people, animals, or things.
+Example: *team, family, herd*
+
+Note:
+There's distinction between a Collective Noun and a Noun of Multitude  
+(a) A Collective Noun one undivided whole and hence the verb following is singular.  
+(b) A Noun of Multitude denotes the individuals of the group and hence the verb is plural, although the noun is singular.
+
+
+4. **Material Noun:**
 Noun that denotes the matter or substance on which things are made.
 Example: *gold, wood, water, coal*
 
@@ -48,20 +55,13 @@ Example:
 Coal is black. 
 But, the coal of Jharia is of good quality.
 
-4. **Abstract Nouns:** 
+5. **Abstract Nouns:** 
 Nouns that represent ideas, qualities, or concepts that cannot be physically perceived.
 Example: *happiness, love, beauty*  
 
 Note:  According to Nesfield, Abstract noun relates to qualities states, or action which can not be seen or touched. But this thing is not always true, because 'movement' or 'laughter' are works which can't be touched but can be seen. 
 
-5. **Collective Nouns:**
-Nouns that refer to a group of people, animals, or things.
-Example: *team, family, herd*
 
-Note:
-There's distinction between a Collective Noun and a Noun of Multitude  
-(a) A Collective Noun one undivided whole and hence the verb following is singular.  
-(b) A Noun of Multitude denotes the individuals of the group and hence the verb is plural, although the noun is singular.
 
 
 ## Let's Practice!
