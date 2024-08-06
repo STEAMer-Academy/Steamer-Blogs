@@ -60,6 +60,7 @@ This repo has blogs of different subjects, made my our officers. You are free To
 - Technology ⚙️
   - Computers
     - [Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Part%201.md)
+    - [Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%202/README.md)
 
 
 - Engineering
