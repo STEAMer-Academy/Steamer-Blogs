@@ -4,7 +4,7 @@
 
 **What’s Engineering All About?**
 
-<img src="Images/Image 1.png">
+<img src="Images/image 1.png">
 
 **Engineering is the art of solving problems and making awesome things work. Engineers use science and math to turn ideas into real-life creations. Whether it's designing a new robot or building a bridge, engineers make the impossible possible\!**
 
@@ -13,7 +13,7 @@
 
 **Mechanical Engineering ⚒️**
 
-<img src="Images/Image 2.png">
+<img src="Images/image 2.png">
 
 * **What It Is:** Designing and building machines and mechanical systems.  
 * **Cool Example:** The gears inside your bike or the engine in a car.  
@@ -21,7 +21,7 @@
 
 **Civil Engineering 🏗️**
 
-<img src="Images/Image 3.png">
+<img src="Images/image 3.png">
 
 * **What It Is:** Creating and constructing roads, bridges, and buildings.  
 * **Cool Example:** The tall skyscrapers and sturdy bridges you see around you.  
@@ -29,7 +29,7 @@
 
 **Electrical Engineering ⚡**
 
-<img src="Images/Image 4.png">
+<img src="Images/image 4.png">
 
 * **What It Is:** Working with electricity and electronic devices.  
 * **Cool Example:** The circuits inside your smartphone and the power systems that keep your lights on.  
@@ -37,7 +37,7 @@
 
 **Chemical Engineering 🧪**
 
-<img src="Images/Image 5.png">
+<img src="Images/image 5.png">
 
 * **What It Is:** Using chemistry to make products like medicines, food, and energy.  
 * **Cool Example:** The creation of your favorite snacks or the energy drinks you love.  
@@ -45,7 +45,7 @@
 
 **Software Engineering 💻**
 
-<img src="Images/Image 6.png">
+<img src="Images/image 6.png">
 
 * **What It Is:** Designing and developing computer programs and apps.  
 * **Cool Example:** The video games you play or the apps you can’t live without.  
@@ -53,7 +53,7 @@
 
 **Environmental Engineering 🌍**
 
-<img src="Images/Image 7.png">
+<img src="Images/image 7.png">
 
 * **What It Is:** Protecting the environment and solving ecological problems.  
 * **Cool Example:** Creating recycling systems or clean water technologies.  
@@ -95,7 +95,7 @@ In your science textbooks, you’ll find topics that are closely related to engi
 
 * **Newton’s Second Law of Motion:**    
 
-  <img src="Images/Image 8.png" width="60%">
+  <img src="Images/image 8.png" width="60%">
 
   * **F** is the force applied (in Newtons, N)  
   * **m** is the mass of the object (in kilograms, kg)  
@@ -105,7 +105,7 @@ In your science textbooks, you’ll find topics that are closely related to engi
 
 * **Gravity Force:**  
 
-  <img src="Images/Image 9.png" width="40%">
+  <img src="Images/image 9.png" width="40%">
 
   * **g** is the acceleration due to gravity (approximately 9.8 m/s² on Earth)
 
@@ -113,7 +113,7 @@ In your science textbooks, you’ll find topics that are closely related to engi
 
 * **Friction Force:**  
 
-  <img src="Images/Image 10.png" width="50%">
+  <img src="Images/image 10.png" width="50%">
 
   * **μ** is the coefficient of friction  
   * **N** is the normal force (the force perpendicular to the surface)
@@ -122,7 +122,7 @@ In your science textbooks, you’ll find topics that are closely related to engi
 
          **Distance Covered with Constant Motion:**   
 
-<img src="Images/Image 11.png" width="50%">
+<img src="Images/image 11.png" width="50%">
 
 * **d** is the distance covered (in meters, m)  
 * **v** is the velocity (in meters per second, m/s)  
@@ -134,13 +134,13 @@ In your science textbooks, you’ll find topics that are closely related to engi
 
         **Distance Covered with Uniform Acceleration:** 
 
-<img src="Images/Image 12.png" width="50%">
+<img src="Images/image 12.png" width="50%">
 
 * **v\_i** is the initial velocity (in m/s)  
 * **a** is the acceleration (in m/s²)  
 * **t** is the time (in seconds, s)
 
-<Img src="Images/Image 13.png" width="90%">
+<Img src="Images/image 13.png" width="90%">
 
 **Engineering Connection:** Engineers use these principles to design and test machines, vehicles, and structures to ensure they work safely and efficiently.
 
@@ -165,8 +165,8 @@ Mechanical Advantage tells us how much a machine increases the force you apply. 
 * **Mechanical Advantage (MA) for Levers:**  
     
   <p>
-    <img src="Images/Image 14.png" width="50%">
-    <img src="Images/Image 15.png">
+    <img src="Images/image 14.png" width="50%">
+    <img src="Images/image 15.png">
   </p>
 
 
@@ -177,7 +177,7 @@ Mechanical Advantage tells us how much a machine increases the force you apply. 
 
 ### **Without Pulley**
 
-<img src="Images/Image 16.png">
+<img src="Images/image 16.png">
 
 With no pulley \- the effort force is *similar* to the load \- in opposite direction.
 
@@ -195,7 +195,7 @@ So, the mechanical advantage will be 1
 
 #### **Fixed Pulley**
 
-<img src="Images/Image 17.png">
+<img src="Images/image 17.png">
 
 With a single fixed pulley the effort force is *similar* (or more due to efficiency loss) to the load.
 
@@ -207,7 +207,7 @@ So, the mechanical advantage will be 1
 
 #### **Movable Pulley**
 
-<img src="Images/Image 18.png">
+<img src="Images/image 18.png">
 
 With a single moveable pulley the effort force is *half* (or more due to efficiency loss) of the load.
 
@@ -217,7 +217,7 @@ So the mechanical advantage will be 2
 
 ### **Combined Pulleys**
 
-<img src="Images/Image 19.png">
+<img src="Images/image 19.png">
 
 With a combined moveable pulley as above \- the effort force is *half* (or more due to efficiency loss) of the load.
 
@@ -227,7 +227,7 @@ Here, the mechanical advantage will be 2
 
 To understand the concept of mechanical advantages in pulleys we can see this picture:
 
-<img src="Images/Image 20.png">
+<img src="Images/image 20.png">
 
 This demonstrates a few pulley setups. First, we’ll look at pulley system 1\. This is a simple pulley, and in order to keep a weight pulling with 100 N of force up in the air, you have to pull with 100 N. This is because all of the weight of the block creates a tension on that one single rope, and you have to pull with the same force. Since the ratio between weight force and the required force is 1:1, the mechanical advantage is 1\. Pretty easy.
 
@@ -239,9 +239,9 @@ Again, with pulley system 3, we have divided up the force of the weight, but thi
 
 * **Efficiency:**    **Efficiency is denoted by η.** 
 
-  <img src="Images/Image 21.png" width="40%">
+  <img src="Images/image 21.png" width="40%">
 
-<Img src="Images/Image 22.png">
+<Img src="Images/image 22.png">
 
 **Engineering Connection:** Engineers use simple machines to create complex tools and systems. For instance, cranes use pulleys to lift heavy objects with less effort.
 
@@ -253,16 +253,16 @@ Again, with pulley system 3, we have divided up the force of the weight, but thi
 
 * **Kinetic Energy (KE):**   
 
-  <img src="Images/Image 23.png">
+  <img src="Images/image 23.png">
 
   * **m** is mass (in kg)  
   * **v** is velocity (in m/s)
 
-  <img src="Images/Image 24.png">
+  <img src="Images/image 24.png">
 
 * **Potential Energy (PE):** 
 
-  <img src="Images/Image 25.png">
+  <img src="Images/image 25.png">
 
   * **m** is mass (in kg)  
   * **g** is gravitational acceleration (9.8 m/s²)  
@@ -282,7 +282,7 @@ Again, with pulley system 3, we have divided up the force of the weight, but thi
 
 * **Work:** 
 
-  <img src="Images/Image 26.png">
+  <img src="Images/image 26.png">
 
   * **W** is the work (in J)  
   * **F** is the force (in N)  
@@ -293,8 +293,8 @@ Again, with pulley system 3, we have divided up the force of the weight, but thi
 * **Power:**   
 
   <p>
-    <img src="Images/Image 27.jpg">
-    <img src="Images/Image 28.png">
+    <img src="Images/image 27.jpg">
+    <img src="Images/image 28.png">
   </p>
 
   * **P** is the power (in W)  
