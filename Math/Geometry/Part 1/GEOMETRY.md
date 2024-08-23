@@ -32,21 +32,21 @@ You've heard the name even if you don't remember its definition.
 
 # Table of Geometry, Cyclopaedia, Volume 1
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/main/Geometry/Part%201/Images/image%201.png">
+<img src="Images/image 1.png">
 
 Part of the "Tab.Geometry." (Table of Geometry) from the 1728 [*Cyclopaedia*](https://en.wikipedia.org/wiki/Cyclopaedia,\_or\_an\_Universal\_Dictionary\_of\_Arts\_and\_Sciences) 
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/main/Geometry/Part%201/Images/image%202.png"> 
+<img src="Images/image 2.png"> 
 
 This image illustrates in 3D a stereographic projection from the north pole onto a plane below the sphere.
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/main/Geometry/Part%201/Images/image%203.png" width="50%">
+<img src="Images/image 3.png" width="50%">
 
 This image illustrates in 3D a stereographic projection from the north pole onto a plane below the sphere
 
 # EGYPTIAN GEOMETRY
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/main/Geometry/Part%201/Images/image%204.png">
+<img src="Images/image 4.png">
 
 The ancient Egyptians knew that they could approximate the area of a circle as follows:[\[2\]](https://en.wikipedia.org/wiki/History\_of\_geometry\#cite\_note-School\_Mathematics-2)
 
@@ -56,6 +56,6 @@ Problem 50 of the [Ahmes](https://en.wikipedia.org/wiki/Ahmes) papyrus uses thes
 
 **Thales and Pythagoras**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/51dd1e24797ef31122ac698b6401350b8c75f83a/Geometry/Part%201/Images/image%205.svg" width="30%"> [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean\_theorem): a² + b² = c²
+<img src="Images/image 5.svg" width="30%"> [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean\_theorem): a² + b² = c²
 
 [Thales](https://en.wikipedia.org/wiki/Thales)  of [Miletus](https://en.wikipedia.org/wiki/Miletus) , was the first to whom deduction in mathematics is attributed. There are five geometric propositions for which he wrote deductive proofs, though his proofs have not survived. [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (582–496 BC) of Ionia, and later, Italy, then colonized by Greeks, may have been a student of Thales, and travelled to [Babylon](https://en.wikipedia.org/wiki/Babylon) and [Egypt](https://en.wikipedia.org/wiki/Egypt). The theorem that bears his name may not have been his discovery, but he was probably one of the first to give a deductive proof of it. He gathered a group of students around him to study mathematics, music, and philosophy, and together they discovered most of what high school students learn today in their geometry courses. In addition, they made the profound discovery of [incommensurable](https://en.wikipedia.org/wiki/Commensurability\_(mathematics)).
