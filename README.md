@@ -52,6 +52,9 @@ This repo has blogs of different subjects, made my our officers. You are free To
 
   - Biology
     - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Biology/Part%201/BIOLOGY.md)
+  - Physics
+    - [Physics: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%201/besic%20of%20physics.md)
+    - [Physics: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%202/Physics%20(1).md)
 - Technology ⚙️
 
   - Computers
@@ -64,14 +67,17 @@ This repo has blogs of different subjects, made my our officers. You are free To
 - Math ➕
 
   - Geometry
-    - [Geometry: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Geometry/Part%201/GEOMETRY.md)
+    - [Geometry: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Math/Geometry/Part%201/GEOMETRY.md)
+    - [Geometry: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Math/Geometry/Part%202/trigonometry%20%20(1).md)
+  - [Algebra](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Math/Algebra/Why%20X%20Always%20Gets%20the%20Spotlight%F0%9F%A4%94.md)
+
+- Science
+  - Biology  
+    - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Biology/Part%201/BIOLOGY.md)
+  - Physics
+    - [Physics: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%201/besic%20of%20physics.md)
+    - [Physics: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%202/Physics%20(1).md)
 - English
 
   - [Noun](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%201/Noun-1.md)
   - [Verbs](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%202/Overview%20of%20Verb.md)
-
-# Join Us !
-
-You are free to read everything, and learn. We are in discord too. Here is the invite link, go there by clicking [here](https://discord.gg/HNhjQAfq9U). This blogs are also posted in the website.
-
-We have a website, too. Go there by clicking [here](https://steamer.wordpress.com).
