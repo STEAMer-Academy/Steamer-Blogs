@@ -65,6 +65,7 @@ This repo has blogs of different subjects, made my our officers. You are free To
 
 - Engineering
   - [Engineering: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%201/Engineering%20Blog%20Part.%201.md)
+  - [Engineering: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%202/Engineering%20Blog%20Part%202.md)
 
 
 - Math ➕
