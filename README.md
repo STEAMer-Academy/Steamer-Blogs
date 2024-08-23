@@ -1,8 +1,6 @@
-
 <h6 align="center">
     <img src="https://raw.githubusercontent.com/STEAMer-Academy/.github/main/profile/20240802_221113_0000.png" alt="Logo" class="logo" width="20%">
 </h6>
-
 
 <h3 align="center">STEAMer Academy</h3>
 
@@ -46,41 +44,34 @@
     Join Our Community !
 </h3>
 
-
-
 # Steamer Blogs 📤
 
 This repo has blogs of different subjects, made my our officers. You are free To read. This are the blogs that are available right now.
 
 - Science
-  -Biology
-    - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Biology/Part%201/BIOLOGY.md)
 
- 
+  - Biology
+    - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Biology/Part%201/BIOLOGY.md)
 - Technology ⚙️
+
   - Computers
     - [Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Part%201.md)
     - [Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%202/README.md)
-
-
 - Engineering
+
   - [Engineering: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%201/Engineering%20Blog%20Part.%201.md)
   - [Engineering: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%202/Engineering%20Blog%20Part%202.md)
-
-
 - Math ➕
+
   - Geometry
     - [Geometry: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Geometry/Part%201/GEOMETRY.md)
-
-
 - English
-  - [Noun: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%201/Noun-1.md)
 
+  - [Noun](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%201/Noun-1.md)
+  - [Verbs](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%202/Overview%20of%20Verb.md)
 
 # Join Us !
 
-You are free to read everything, and learn. We are in discord too. Here is the invite link, go there by clicking [here](https://discord.gg/HNhjQAfq9U). This blogs are also posted in the website. 
+You are free to read everything, and learn. We are in discord too. Here is the invite link, go there by clicking [here](https://discord.gg/HNhjQAfq9U). This blogs are also posted in the website.
 
 We have a website, too. Go there by clicking [here](https://steamer.wordpress.com).
-
-
