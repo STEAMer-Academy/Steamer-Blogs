@@ -51,7 +51,7 @@ This repo has blogs of different subjects, made my our officers. You are free To
 - Science
 
   - Biology
-    - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Biology/Part%201/BIOLOGY.md)
+    - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Biology/Part%201/BIOLOGY.md)
   - Physics
     - [Physics: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%201/besic%20of%20physics.md)
     - [Physics: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%202/Physics%20(1).md)
