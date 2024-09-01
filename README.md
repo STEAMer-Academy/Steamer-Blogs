@@ -84,4 +84,4 @@ This repo has blogs of different subjects, made my our officers. You are free To
   - [Verbs](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%202/Overview%20of%20Verb.md)
 
 > [!Important]
-> Check discord for more details.
+>> Check discord for updates.
