@@ -59,7 +59,7 @@ This repo has blogs of different subjects, made my our officers. You are free To
 
   - Computers
     - [Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Part%201.md)
-    - [Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%202/README.md)
+    - [Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%202/Basic%20Components%20Of%20A%20Computer%20And%20How%20They%20Work.md)
 - Engineering
 
   - [Engineering: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%201/Engineering%20Blog%20Part.%201.md)
