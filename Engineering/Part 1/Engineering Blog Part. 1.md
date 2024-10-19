@@ -141,7 +141,7 @@ In your science textbooks, you’ll find topics that are closely related to engi
 * **a** is the acceleration (in m/s²)  
 * **t** is the time (in seconds, s)
 
-<Img src="Images/image 13.png" width="90%" />
+<img src="Images/image 13.png" width="90%" />
 
 **Engineering Connection:** Engineers use these principles to design and test machines, vehicles, and structures to ensure they work safely and efficiently.
 
@@ -242,7 +242,7 @@ Again, with pulley system 3, we have divided up the force of the weight, but thi
 
   <img src="Images/image 21.png" width="40%" />
 
-<Img src="Images/image 22.png" />
+<img src="Images/image 22.png" />
 
 **Engineering Connection:** Engineers use simple machines to create complex tools and systems. For instance, cranes use pulleys to lift heavy objects with less effort.
 
