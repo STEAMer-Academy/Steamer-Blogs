@@ -74,7 +74,7 @@ This simplifies to:
 
 2. **Step 2: Divide and Conquer** – Now, divide both sides by 2 to get X by itself:
 
-2X2=102\\frac{2X}{2} \= \\frac{10}{2}22X​=210​
+2X2=102\\frac\{2X}\{2} \= \\frac\{10}\{2}22X​=210​
 
 And voila\!
 

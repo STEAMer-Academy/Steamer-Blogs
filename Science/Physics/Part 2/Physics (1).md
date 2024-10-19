@@ -27,7 +27,7 @@ The four dimensional space-time continuum itself is distorted in the vicinity of
 <img src="Images/Image 7.png" /> Sir Isaac Newton worked in many areas of mathematics and physics. He developed the theories of gravitation in 1666 when he was only 23 years old. In 1686, he presented his three laws of motion in the   
  <p align="center">
    <img src="Images/Image 8.png" />
-   <br>
+   <br />
    <i>“Principia Mathematica Philosophiae Naturalis.” </i>
  </p>
 
