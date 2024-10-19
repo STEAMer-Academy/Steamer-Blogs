@@ -95,7 +95,7 @@ In your science textbooks, you’ll find topics that are closely related to engi
 
 * **Newton’s Second Law of Motion:**    
 
-  <img src="Images/image 8.png" width="60%" />
+  <img src="Images/image 8.png" width="60%"/>
 
   * **F** is the force applied (in Newtons, N)  
   * **m** is the mass of the object (in kilograms, kg)  
