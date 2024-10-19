@@ -6,7 +6,7 @@ A computer is a machine that can be programmed to carry out sequences of arithme
 
 ## Hardware VS Software
 
-<img src="images/hardware vs software.jpg" width="80%">
+<img src="images/hardware vs software.jpg" width="80%" />
 
 ### Hardware
 
@@ -18,7 +18,7 @@ Software is a collection of instructions and data that tell the computer how to 
 
 ## Essential hardware components of a computer
 
-<img src="images/components of a computer.png" width="50%">
+<img src="images/components of a computer.png" width="50%" />
 
 ### Central Processing Unit (CPU)
 
@@ -52,31 +52,31 @@ Peripherals are devices that connect to your computer, such as a keyboard, mouse
 
 ### Understanding Binary (Bits and Bytes)
 
-<img src="images/bits and bytes.jpeg">
+<img src="images/bits and bytes.jpeg" />
 
 Computers use a binary system to store and process data. This system uses two digits, 0 and 1, to represent all numbers and characters. Each digit is called a bit, and a group of eight bits is called a byte. For example, the letter A is represented by the binary number 01000001. There is a direct relationship between bits and bytes: 1 byte = 8 bits. Also, there is a chart that shows the relationship between bits and bytes. This are called ASCII table.
 
 ### Fetch-Decode-Execute Cycle
 
-<img src="images/fetch execute decode cycle.png" width="80%">
+<img src="images/fetch execute decode cycle.png" width="80%" />
 
 The central processing unit (CPU) of a computer follows a series of steps to execute instructions. This process is called the fetch-decode-execute cycle. First, the CPU fetches an instruction from memory. Then, it decodes the instruction to determine what operation to perform. Finally, it executes the instruction and stores the result.
 
 ### Operating System
 
-<img src="images/operating system.jpg" width="50%">
+<img src="images/operating system.jpg" width="50%" />
 
 The operating system is the software that manages all the hardware and software on your computer. It controls how your computer boots up, runs applications, and communicates with peripherals. The operating system also provides a user interface that allows you to interact with your computer.
 
 ### Binary System
 
-<img src="images/binary.webp" width="70%">
+<img src="images/binary.webp" width="70%" />
 
 The binary system is a number system that uses only two digits, 0 and 1. This system is used by computers to store and process data. Each digit in a binary number is called a bit, and a group of eight bits is called a byte. For example, the binary number 01000001 represents the letter A.
 
 ## Basic Data Processing and Storage
 
-<img src="images/data processing.jpg">
+<img src="images/data processing.jpg" />
 
 ### Input
 
@@ -96,7 +96,7 @@ Storage is the retention of data for future use. This can involve saving data to
 
 ## Ram VS HDD VS SSD
 
-<img src="images/ram vs ssd vs hdd.jpg" width="60%">
+<img src="images/ram vs ssd vs hdd.jpg" width="60%" />
 
 ### RAM
 
