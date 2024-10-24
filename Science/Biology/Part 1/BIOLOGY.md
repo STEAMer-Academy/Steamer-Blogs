@@ -20,14 +20,14 @@ Biology caters to these intriguing aspects through various sub-disciplines or br
 ### Branches of Biology
 
 <p>
-  <img src="Images/image 1.png" style={{ display: 'inline-block', width: '200px' }} />
-  <img src="Images/image 2.png" style={{ display: 'inline-block', width: '200px' }} />
-  <img src="Images/image 3.png" style={{ display: 'inline-block', width: '200px' }} />
-  <img src="Images/image 4.png" style={{ display: 'inline-block', width: '200px' }} />
-  <img src="Images/image 5.png" style={{ display: 'inline-block', width: '200px' }} />
-  <img src="Images/image 6.png" style={{ display: 'inline-block', width: '200px' }} />
-  <img src="Images/image 7.png" style={{ display: 'inline-block', width: '200px' }} />
-  <img src="Images/image 8.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%201.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%202.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%203.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%204.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%205.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%206.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%207.png" style={{ display: 'inline-block', width: '200px' }} />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Biology/Part%201/Images/image%208.png" style={{ display: 'inline-block', width: '200px' }} />
 </p>
 
 # History of BIOLOGY⚛

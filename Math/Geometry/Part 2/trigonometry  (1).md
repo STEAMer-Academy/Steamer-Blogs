@@ -3,9 +3,9 @@ God told me to do some good things but I did many sin theta\!🤓
     Because it is full of sin**. 😆**  
 **Let’s Talk ABout WHat is TriGonometry**  
 **Trigonometry 'triangle' and 'measure'is a branch of mathematics concerned with relationships between angles and side lengths of triangles.**  
-                                      <img src="Images/Image 1.png" />
+                                      <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%202/Images/Image%201.png" />
 **There are six functions of an angle commonly used in trigonometry. Their names and abbreviations are [sine](https://www.britannica.com/science/sine) (sin), [cosine](https://www.britannica.com/science/cosine) (cos), [tangent](https://www.britannica.com/science/tangent-mathematical-function) (tan), [cotangent](https://www.britannica.com/science/cotangent) (cot), [secant](https://www.britannica.com/science/secant) (sec), and [cosecant](https://www.britannica.com/science/cosecant) (csc). These six trigonometric functions in relation to a right [triangle](https://www.britannica.com/science/triangle-mathematics) are displayed in the figure. For example, the triangle contains an angle *A*, and the [ratio](https://www.britannica.com/science/ratio) of the side opposite to *A* and the side opposite to the right angle (the hypotenuse) is called the sine of *A*, or sin *A*; the other trigonometry functions are defined similarly. These functions are properties of the angle *A* independent of the size of the triangle, and calculated [values](https://www.britannica.com/dictionary/values) were tabulated for many angles before [computers](https://www.britannica.com/technology/computer) made [trigonometry tables](https://www.britannica.com/science/trigonometry-table) obsolete. [Trigonometric functions](https://www.britannica.com/science/trigonometry/Principles-of-trigonometry\#ref12232) are used in obtaining unknown angles and distances from known or measured angles in geometric figures.Sine is the ratio of the opposite side over the hypotenuse, cosine is the ratio of the adjacent side over the hypotenuse, and tangent is the ratio of the opposite side over the adjacent side. The opposite side is the side across from the angle and the adjacent side is the side that forms the angle.**  
-**Let us see the table where the values of sin cos tan sec cosec and tan are provided for the important angles 0°, 30°, 45°, 60° and 90                   <img src="Images/Image 2.png" />
+**Let us see the table where the values of sin cos tan sec cosec and tan are provided for the important angles 0°, 30°, 45°, 60° and 90                   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%202/Images/Image%202.png" />
 **●To remember the trigonometric values given in the above table, follow the below steps:**
 
 * **First divide the numbers 0,1,2,3, and 4 by 4 and then take the positive roots of all those numbers.**  
@@ -111,7 +111,7 @@ God told me to do some good things but I did many sin theta\!🤓
 
 **Here is some example to understand this topic**
 
-<img src="Images/Image 3.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%202/Images/Image%203.png" />
 
 **Solution:**
 
@@ -143,15 +143,15 @@ God told me to do some good things but I did many sin theta\!🤓
 
 **2\.**
 
-<img src="Images/Image 4.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%202/Images/Image%204.png" />
 
 **Solution:**
 
-<img src="Images/Image 5.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%202/Images/Image%205.png" />
 
-# 3                                                                              <img src="Images/Image 6.png" />
+# 3                                                                              <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%202/Images/Image%206.png" />
 
-<img src="Images/Image 7.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%202/Images/Image%207.png" />
 
 **Answer this Question on dm** 
 

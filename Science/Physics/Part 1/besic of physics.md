@@ -14,7 +14,7 @@ Physics is like the Swiss army knife of science: versatile, essential, and somet
 
 Let’s kick it off with one of the most famous physics stories: Newton and the apple. Legend has it that Sir Isaac Newton was chilling under a tree when—wham\!—an apple fell on his head. This got him thinking about gravity, the invisible force that pulls objects toward each other. Spoiler alert: gravity is why you're not floating around like an astronaut right now.
 
-<img src="Images/Image 1.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Physics/Part%201/Images/Image%201.png" />
 
 Newton’s work laid the foundation for classical physics, the stuff that explains how most things in our daily lives behave. Things like why cars move, why balls bounce, and even how rockets fly are all thanks to Newton’s laws. Pretty cool for a guy who just happened to be in the right place at the right time, right?
 
@@ -30,7 +30,7 @@ No physics blog would be complete without mentioning Albert Einstein, the man wh
 
                                                             “E=mc²” 
 
-<img src="Images/Image 2.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Physics/Part%201/Images/Image%202.png" />
 
 a household equation. Einstein’s theory of relativity turned our understanding of space and time upside down. He showed us that time isn’t the same for everyone—gravity can actually warp time, making it move slower the closer you are to a massive object, like a planet or a star. Mind-blowing, right?
 
@@ -38,7 +38,7 @@ Einstein’s work paved the way for modern physics and helped us understand the 
 
 #### **Physics in Everyday Life 🌍**
 
-<img src="Images/Image 3.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Physics/Part%201/Images/Image%203.png" />
 
 Now, you might be thinking, "Okay, this is all cool and everything, but how does this relate to my life?" The truth is, physics is everywhere\! When you’re cooking, driving, or even just lounging on the couch, physics is at play.
 

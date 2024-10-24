@@ -24,7 +24,7 @@ There are many different types of computers, each with its own strengths and wea
 
 - Mainframe : Mainframe computers are large, powerful machines that are used by large organizations to process large amounts of data. They are typically used for tasks that require a lot of processing power, such as scientific research or financial modeling.
 
-#### History Of Computers
+### History Of Computers
 
 The first computers were developed in the 1940s. These early computers were large, expensive machines that were used primarily by governments and large corporations. Over the years, computers have become smaller, faster, and more affordable. Today, computers are used in a wide range of applications, from personal computing to scientific research. Before, computers were used for simple calculations and data storage. Now, computers are used for a wide range of tasks, including word processing, web browsing, and video editing. A bit of ram and storage in the 1940s was 1KB, now it is 8GB. 
 
@@ -48,7 +48,7 @@ There are many different types of programming, each with its own strengths and w
 
 - Artificial Intelligence : Artificial intelligence is the process of creating intelligent machines that can perform tasks that typically require human intelligence. AI developers use programming languages such as Python and TensorFlow to create AI models that can learn and adapt.   
 
-#### Programming Languages
+### Programming Languages
 
 There are hundreds of programming languages, each with its own strengths and weaknesses. Some languages are designed for specific types of tasks, such as web development or scientific computing. Other languages are more general-purpose and can be used for a wide range of applications. Some of the most popular programming languages include:
 
@@ -64,7 +64,7 @@ There are hundreds of programming languages, each with its own strengths and wea
 
 In this blog, we will be using Python as our programming language.
 
-##### History Of Programming
+### History Of Programming
 
 The first programming languages were developed in the 1950s. These early languages were designed to make it easier to write programs for computers. Over the years, programming languages have evolved to become more powerful and easier to use. Today, there are hundreds of programming languages, each with its own strengths and weaknesses. Some languages are designed for specific types of tasks, such as web development or scientific computing. Other languages are more general-purpose and can be used for a wide range of applications.
 
