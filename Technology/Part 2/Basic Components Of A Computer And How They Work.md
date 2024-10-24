@@ -76,7 +76,7 @@ The binary system is a number system that uses only two digits, 0 and 1. This sy
 
 ## Basic Data Processing and Storage
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Technology/Part%202/images/data processing.jpg" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Technology/Part%202/images/data processing.png" />
 
 ### Input
 
