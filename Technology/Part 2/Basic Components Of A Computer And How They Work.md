@@ -22,7 +22,7 @@ Software is a collection of instructions and data that tell the computer how to 
 
 ### Central Processing Unit (CPU)
 
-The central processing unit (CPU) is the brain of your computer. It handles all the instructions you give your computer, and the faster it does this, the better. The CPU is made up of two parts: the control unit and the arithmetic logic unit. The control unit fetches instructions from memory and decodes them, while the arithmetic logic unit performs arithmetic and logical operations on data.  
+The central processing unit (CPU) is the brain of your computer. It handles all the instructions you give your computer, and the faster it does this, the better. The CPU is made up of two parts: the control unit and the arithmetic logic unit. The control unit fetches instructions from memory and decodes them, while the arithmetic logic unit performs arithmetic and logical operations on data.
 
 ### Random Access Memory (RAM)
 

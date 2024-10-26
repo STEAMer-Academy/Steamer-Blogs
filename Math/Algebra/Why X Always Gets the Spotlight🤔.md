@@ -173,4 +173,3 @@ A: Take a step back and review the basics. Sometimes the best way to solve a tri
 Algebra might seem like a rollercoaster at first—full of ups and downs, and maybe even a loop or two—but with a little practice, you’ll find that it’s more of a fun ride than a terrifying one. And who knows? You might even start to enjoy the challenge of solving for X\!
 
 So next time you’re faced with an algebraic puzzle, remember: you’ve got this. Just take it one step at a time, and before you know it, you’ll be an algebra pro. Thanks for joining me on this ride—now go out there and conquer those equations\!
-

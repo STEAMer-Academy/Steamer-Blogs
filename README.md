@@ -54,29 +54,33 @@ This repo has blogs of different subjects, made my our officers. You are free To
     - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Biology/Part%201/BIOLOGY.md)
   - Physics
     - [Physics: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%201/besic%20of%20physics.md)
-    - [Physics: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%202/Physics%20(1).md)
+    - [Physics: Part 2](<https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%202/Physics%20(1).md>)
+
 - Technology ⚙️
 
   - Computers
     - [Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%201/Part%201.md)
     - [Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Technology/Part%202/Basic%20Components%20Of%20A%20Computer%20And%20How%20They%20Work.md)
+
 - Engineering
 
   - [Engineering: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%201/Engineering%20Blog%20Part.%201.md)
   - [Engineering: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Engineering/Part%202/Engineering%20Blog%20Part%202.md)
+
 - Math ➕
 
   - Geometry
     - [Geometry: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Math/Geometry/Part%201/GEOMETRY.md)
-    - [Geometry: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Math/Geometry/Part%202/trigonometry%20%20(1).md)
+    - [Geometry: Part 2](<https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Math/Geometry/Part%202/trigonometry%20%20(1).md>)
   - [Algebra](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Math/Algebra/Why%20X%20Always%20Gets%20the%20Spotlight%F0%9F%A4%94.md)
 
 - Science
-  - Biology  
+
+  - Biology
     - [Biology: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Biology/Part%201/BIOLOGY.md)
   - Physics
     - [Physics: Part 1](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%201/besic%20of%20physics.md)
-    - [Physics: Part 2](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%202/Physics%20(1).md)
+    - [Physics: Part 2](<https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/Science/Physics/Part%202/Physics%20(1).md>)
 
 - English
 

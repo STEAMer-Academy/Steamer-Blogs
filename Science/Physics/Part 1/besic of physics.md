@@ -26,9 +26,9 @@ In the quantum world, particles can exist in multiple places at once, teleport, 
 
 #### **Relativity: Einstein’s Big Idea ⏳**
 
-No physics blog would be complete without mentioning Albert Einstein, the man who made 
+No physics blog would be complete without mentioning Albert Einstein, the man who made
 
-                                                            “E=mc²” 
+                                                            “E=mc²”
 
 <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Science/Physics/Part%201/Images/Image%202.png" />
 
@@ -42,9 +42,9 @@ Einstein’s work paved the way for modern physics and helped us understand the 
 
 Now, you might be thinking, "Okay, this is all cool and everything, but how does this relate to my life?" The truth is, physics is everywhere\! When you’re cooking, driving, or even just lounging on the couch, physics is at play.
 
-* **Smartphones**: Quantum mechanics and electromagnetic waves work together to make sure your texts go through and your selfies look just right.  
-* **Sports**: Every time you shoot a basketball or kick a soccer ball, you're applying Newton’s laws, even if you don't realize it.  
-* **Music**: The vibrations that create sound waves are all about physics, helping you jam out to your favorite tunes.
+- **Smartphones**: Quantum mechanics and electromagnetic waves work together to make sure your texts go through and your selfies look just right.
+- **Sports**: Every time you shoot a basketball or kick a soccer ball, you're applying Newton’s laws, even if you don't realize it.
+- **Music**: The vibrations that create sound waves are all about physics, helping you jam out to your favorite tunes.
 
 #### **Why Physics Matters (And Why You Should Care) 💡**
 
@@ -57,6 +57,3 @@ Whether you're marveling at the stars, wondering why rainbows appear, or just tr
 At the end of the day, physics is all about curiosity—the desire to understand the world we live in. So keep asking questions, keep exploring, and never stop wondering. Who knows? You might just stumble upon the next big discovery.
 
 Thanks for joining me on this casual cruise through the cosmos. Until next time, keep your eyes on the stars and your feet on the ground\! 🌠
-
-
-

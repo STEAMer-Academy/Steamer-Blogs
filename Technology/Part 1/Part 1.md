@@ -26,7 +26,7 @@ There are many different types of computers, each with its own strengths and wea
 
 ### History Of Computers
 
-The first computers were developed in the 1940s. These early computers were large, expensive machines that were used primarily by governments and large corporations. Over the years, computers have become smaller, faster, and more affordable. Today, computers are used in a wide range of applications, from personal computing to scientific research. Before, computers were used for simple calculations and data storage. Now, computers are used for a wide range of tasks, including word processing, web browsing, and video editing. A bit of ram and storage in the 1940s was 1KB, now it is 8GB. 
+The first computers were developed in the 1940s. These early computers were large, expensive machines that were used primarily by governments and large corporations. Over the years, computers have become smaller, faster, and more affordable. Today, computers are used in a wide range of applications, from personal computing to scientific research. Before, computers were used for simple calculations and data storage. Now, computers are used for a wide range of tasks, including word processing, web browsing, and video editing. A bit of ram and storage in the 1940s was 1KB, now it is 8GB.
 
 ## What is Programming?
 
@@ -42,11 +42,11 @@ There are many different types of programming, each with its own strengths and w
 
 - Software Development : Software development is the process of creating software applications. Software developers use programming languages such as Java, C++, and Python to create applications that run on computers, smartphones, and other devices.
 
-- Game Development : Game development is the process of creating video games. Game developers use programming languages such as C# and Unity to create games that are fun and engaging. 
+- Game Development : Game development is the process of creating video games. Game developers use programming languages such as C# and Unity to create games that are fun and engaging.
 
 - Data Science : Data science is the process of analyzing and interpreting large amounts of data. Data scientists use programming languages such as R and Python to analyze data and extract valuable insights.
 
-- Artificial Intelligence : Artificial intelligence is the process of creating intelligent machines that can perform tasks that typically require human intelligence. AI developers use programming languages such as Python and TensorFlow to create AI models that can learn and adapt.   
+- Artificial Intelligence : Artificial intelligence is the process of creating intelligent machines that can perform tasks that typically require human intelligence. AI developers use programming languages such as Python and TensorFlow to create AI models that can learn and adapt.
 
 ### Programming Languages
 
