@@ -2,7 +2,7 @@
 
 # Part 1:GEOMETRY
 
-DO YOU KNOW WHAT IS GEOMETRY  
+DO YOU KNOW WHAT IS GEOMETRY\
 You've heard the name even if you don't remember its definition.
 
 **Geometry**, the branch of mathematics concerned with the shape of individual objects, [spatial](https://www.britannica.com/dictionary/spatial) relationships among various objects, and the properties of surrounding space. It is one of the oldest branches of mathematics, having arisen in response to such practical problems as those found in surveying, and its name is derived from GREEK words meaning “Earth measurement.”
@@ -51,7 +51,7 @@ The ancient Egyptians knew that they could approximate the area of a circle as f
 
 **_Area of Circle ≈ \[ (Diameter) x 8/9 \]2_**
 
-Problem 50 of the [Ahmes](https://en.wikipedia.org/wiki/Ahmes) papyrus uses these methods to calculate the area of a circle, according to a rule that the area is equal to the square of 8/9 of the circle's diameter. This assumes that [_π_](https://en.wikipedia.org/wiki/Pi) is 4×(8/9)2 (or 3.160493...), with an error of slightly over 0.63 percent. This value was slightly less accurate than the calculations of the [Babylonians](https://en.wikipedia.org/wiki/Babylonia) (25/8 \= 3.125, within 0.53 percent), but was not otherwise surpassed until [Archimedes](https://en.wikipedia.org/wiki/Archimedes)' approximation of 211875/67441 \= 3.14163, which had an error of just over 1 in 10,000.
+Problem 50 of the [Ahmes](https://en.wikipedia.org/wiki/Ahmes) papyrus uses these methods to calculate the area of a circle, according to a rule that the area is equal to the square of 8/9 of the circle's diameter. This assumes that [_π_](https://en.wikipedia.org/wiki/Pi) is 4×(8/9)2 (or 3.160493...), with an error of slightly over 0.63 percent. This value was slightly less accurate than the calculations of the [Babylonians](https://en.wikipedia.org/wiki/Babylonia) (25/8 = 3.125, within 0.53 percent), but was not otherwise surpassed until [Archimedes](https://en.wikipedia.org/wiki/Archimedes)' approximation of 211875/67441 = 3.14163, which had an error of just over 1 in 10,000.
 
 **Thales and Pythagoras**
 

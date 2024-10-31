@@ -1,6 +1,6 @@
 # Verbs: The Backbone of Language
 
-Verbs are the words that show action.  
+Verbs are the words that show action.\
 They're like the engines of a sentence, making things happen. Without verbs, sentences would be as boring as a day without sunshine. In fact, verbs are super important for building strong and exciting sentences
 
 ### Types of Verbs
@@ -9,11 +9,12 @@ They're like the engines of a sentence, making things happen. Without verbs, sen
 
    - Example: _The cat **runs** across the yard._
 
-2. **Linking Verbs:** These verbs connect the subject of a sentence to a noun or adjective that describes it. Common linking verbs include _be_, _become_, _seem_, and _feel_.
+1. **Linking Verbs:** These verbs connect the subject of a sentence to a noun or adjective that describes it. Common linking verbs include _be_, _become_, _seem_, and _feel_.
 
    - Example: _The sky **is** blue._
 
-3. **Helping Verbs:** These verbs are used with main verbs to form verb tenses, such as _will_, _can_, _should_, and _have_.
+1. **Helping Verbs:** These verbs are used with main verbs to form verb tenses, such as _will_, _can_, _should_, and _have_.
+
    - Example: _I **will** go to the store._
 
 ### Verb Tenses
@@ -39,6 +40,7 @@ Verbs can be used in different tenses to indicate when the action takes place.
     - Example: _She **will be studying** tomorrow evening._
 
 - **Perfect Tenses:**
+
   - **Present Perfect:** Used for actions completed in the past that have a connection to the present.
     - Example: _He **has lived** here for five years._
   - **Past Perfect:** Used for actions completed before another past action.

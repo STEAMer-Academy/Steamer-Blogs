@@ -87,5 +87,5 @@ This repo has blogs of different subjects, made my our officers. You are free To
   - [Noun](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%201/Noun-1.md)
   - [Verbs](https://github.com/STEAMer-Academy/Steamer-Blogs/blob/main/English/Part%202/Overview%20of%20Verb.md)
 
-> [!Important]
+> \[!Important\]
 > Check discord for updates.

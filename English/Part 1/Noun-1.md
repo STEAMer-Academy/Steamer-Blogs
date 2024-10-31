@@ -4,7 +4,7 @@ Aug. 1, 2024
 
 ## Nouns: The Building Blocks of Sentences
 
-We all know, Noun is a naming word.  
+We all know, Noun is a naming word.\
 Nouns are the fundamental words in any language, serving as the names for people, places, things, and ideas.
 They are the essential components that form the backbone of sentences. Without nouns, our communication would be limited and unclear.
 
@@ -12,14 +12,14 @@ They are the essential components that form the backbone of sentences. Without n
 
 **Identify:**
 Nouns pinpoint specific individuals, objects, or concepts.
-Example: _John, New York City, book, happiness_  
-**Act as Subjects:**  
+Example: _John, New York City, book, happiness_\
+**Act as Subjects:**\
 Nouns often occupy the subject position in a sentence.
-Example: _The cat purrs._  
-**Serve as Objects:**  
+Example: _The cat purrs._\
+**Serve as Objects:**\
 Nouns can also function as the object of a verb or preposition.
-Example: _I love chocolate._  
-**Form Phrases:**  
+Example: _I love chocolate._\
+**Form Phrases:**\
 Nouns combine with other words to create noun phrases.
 Example: _The big, red apple_
 
@@ -31,7 +31,7 @@ Nouns can be categorized into several types based on their characteristics:
    Specific names for people, places, or things.
    Example: _John Smith, Paris, Google, Linux_
 
-2. **Common Nouns:**
+1. **Common Nouns:**
    General names for people, places, things, or ideas.
    Example: _boy, city, car_
 
@@ -42,8 +42,8 @@ Note: Proper Noun always starts with capital letter but it is not same in case o
    Example: _team, family, herd_
 
 Note:
-There's distinction between a Collective Noun and a Noun of Multitude  
-(a) A Collective Noun one undivided whole and hence the verb following is singular.  
+There's distinction between a Collective Noun and a Noun of Multitude\
+(a) A Collective Noun one undivided whole and hence the verb following is singular.\
 (b) A Noun of Multitude denotes the individuals of the group and hence the verb is plural, although the noun is singular.
 
 4. **Material Noun:**
@@ -74,4 +74,4 @@ Want to learn more about nouns? Stay tuned for our next blog post where we'll di
 
 ## Additional Resources
 
-1.  [Khan Academy - YouTube](https://youtube.com/playlist?list=PL_5Q5qn-w74S-iPRlawvZ_MbwgnMLhry1&si=-fIasl-Id5sUraA5)
+1. [Khan Academy - YouTube](https://youtube.com/playlist?list=PL_5Q5qn-w74S-iPRlawvZ_MbwgnMLhry1&si=-fIasl-Id5sUraA5)
