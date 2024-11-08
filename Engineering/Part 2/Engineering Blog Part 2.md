@@ -9,7 +9,7 @@ ______________________________________________________________________
 **Pressure** is the measure of how much force is applied to a specific area. It’s all about understanding how force is distributed. To put it simply:
 
 - **Pressure** = **Force** ÷ **Area**
-  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%201.png" />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%201.webp" />
 
 In other words, pressure tells us how concentrated or spread out a force is over a surface. 💪
 
@@ -28,19 +28,19 @@ ______________________________________________________________________
 
 1. **The Balloon Experiment:**
    - **High Pressure:** Pressing a balloon with your finger creates high pressure because you’re concentrating a lot of force on a small area. This can make the balloon pop. 🎈💥
-     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%203.png" />
+     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%203.webp" />
 
 - **Low Pressure:** If you use your whole hand to press the balloon, you’re spreading the force over a larger area. This results in lower pressure and the balloon is less likely to pop.
-  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%203.png" />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%203.webp" />
 
 1. **Walking on Different Surfaces:**
    - **Snow Shoes:** When you walk with snow shoes, your weight is spread over a larger area. This means the pressure on the snow is less, so you don’t sink in.❄️👣\
-     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%204.png" />
+     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%204.webp" />
    - **High Heels:** If you walk in high heels, the pressure is concentrated on a small area of the ground. This high pressure can cause you to sink into soft surfaces like mud or snow. 👠🕳️\
-     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%205.png" />
+     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%205.webp" />
 1. **Car Tires:**
    - **Proper Inflation:** Car tires must have the right air pressure. Too little pressure means the tires wear out quickly and drive poorly. Too much pressure can cause the tires to burst. Correct pressure ensures safety and performance. 🚗🔧\
-     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%206.png" />
+     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%206.webp" />
 
 ______________________________________________________________________
 
@@ -48,30 +48,30 @@ ______________________________________________________________________
 
 **Pressure Formula:**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%207.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%207.webp" />
 
 **Understanding the Units:**
 
 - **Newton (N):** A unit of force. It’s the force required to accelerate one kilogram of mass by one meter per second squared. 🌌\
-  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%208.png" />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%208.webp" />
 - **Square Meter (m²):** A unit of area. It measures the size of a surface. 📏\
-  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%209.png" />
+  <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%209.webp" />
 
 **Examples of Pressure Calculations:**
 
 1. **Pinpoint Pressure:**
 
    - **Needle:** A needle has a small point which applies a lot of force on a tiny area. This high pressure helps it pierce through materials easily. 💉✨\
-     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2010.png" />
+     <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2010.webp" />
 
    But when there are a lot of needles the same thing doesn’t happen because the area increases.\
-   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2011.png" />
+   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2011.webp" />
 
 1. **Pressure in Sports:**
 
    - **Soccer Ball:** The air inside the soccer ball exerts pressure on the ball’s surface. The pressure needs to be just right for the ball to bounce and roll properly.
 
-   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2012.png" />
+   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2012.webp" />
 
 ______________________________________________________________________
 
@@ -79,17 +79,17 @@ ______________________________________________________________________
 
 1. **Safety:** Proper pressure levels are crucial for the safe operation of various devices. For instance, over-inflated tires can burst, while under-inflated ones can lead to poor vehicle handling. ⚠️
 
-   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2013.png" />
+   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2013.webp" />
 
 1. **Design and Engineering:** Engineers use pressure calculations to design safe structures and systems. For example, bridges must be designed to handle the pressure from vehicles and weather conditions. 🏗️🔧
 
-   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2014.png" />
+   <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2014.webp" />
 
 1. **Everyday Objects:** Understanding pressure helps in designing and using tools and gadgets, from the safety of pressure cookers to the efficiency of hydraulic lifts. 🍲🔩
 
    <p>
-      <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2015.png" />
-      <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2016.png" />
+      <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2015.webp" />
+      <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%202/Images/Image%2016.webp" />
    </p>
 
 ______________________________________________________________________

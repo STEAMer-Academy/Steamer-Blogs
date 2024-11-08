@@ -31,21 +31,21 @@ You've heard the name even if you don't remember its definition.
 
 # Table of Geometry, Cyclopaedia, Volume 1
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%201.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%201.webp" />
 
 Part of the "Tab.Geometry." (Table of Geometry) from the 1728 [_Cyclopaedia_](https://en.wikipedia.org/wiki/Cyclopaedia,_or_an_Universal_Dictionary_of_Arts_and_Sciences)
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%202.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%202.webp" />
 
 This image illustrates in 3D a stereographic projection from the north pole onto a plane below the sphere.
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%203.png" width="50%" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%203.webp" width="50%" />
 
 This image illustrates in 3D a stereographic projection from the north pole onto a plane below the sphere
 
 # EGYPTIAN GEOMETRY
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%204.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Math/Geometry/Part%201/Images/image%204.webp" />
 
 The ancient Egyptians knew that they could approximate the area of a circle as follows:[\[2\]](https://en.wikipedia.org/wiki/History_of_geometry#cite_note-School_Mathematics-2)
 

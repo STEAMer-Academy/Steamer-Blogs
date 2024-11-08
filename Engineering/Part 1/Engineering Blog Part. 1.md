@@ -4,7 +4,7 @@
 
 **What’s Engineering All About?**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%201.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%201.webp" />
 
 **Engineering is the art of solving problems and making awesome things work. Engineers use science and math to turn ideas into real-life creations. Whether it's designing a new robot or building a bridge, engineers make the impossible possible!**
 
@@ -12,7 +12,7 @@
 
 **Mechanical Engineering ⚒️**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%202.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%202.webp" />
 
 - **What It Is:** Designing and building machines and mechanical systems.
 - **Cool Example:** The gears inside your bike or the engine in a car.
@@ -20,7 +20,7 @@
 
 **Civil Engineering 🏗️**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%203.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%203.webp" />
 
 - **What It Is:** Creating and constructing roads, bridges, and buildings.
 - **Cool Example:** The tall skyscrapers and sturdy bridges you see around you.
@@ -28,7 +28,7 @@
 
 **Electrical Engineering ⚡**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%204.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%204.webp" />
 
 - **What It Is:** Working with electricity and electronic devices.
 - **Cool Example:** The circuits inside your smartphone and the power systems that keep your lights on.
@@ -36,7 +36,7 @@
 
 **Chemical Engineering 🧪**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%205.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%205.webp" />
 
 - **What It Is:** Using chemistry to make products like medicines, food, and energy.
 - **Cool Example:** The creation of your favorite snacks or the energy drinks you love.
@@ -44,7 +44,7 @@
 
 **Software Engineering 💻**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%206.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%206.webp" />
 
 - **What It Is:** Designing and developing computer programs and apps.
 - **Cool Example:** The video games you play or the apps you can’t live without.
@@ -52,7 +52,7 @@
 
 **Environmental Engineering 🌍**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%207.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%207.webp" />
 
 - **What It Is:** Protecting the environment and solving ecological problems.
 - **Cool Example:** Creating recycling systems or clean water technologies.
@@ -92,7 +92,7 @@ In your science textbooks, you’ll find topics that are closely related to engi
 
 - **Newton’s Second Law of Motion:**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%208.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%208.webp" />
 
 - **F** is the force applied (in Newtons, N)
 - **m** is the mass of the object (in kilograms, kg)
@@ -102,7 +102,7 @@ Example: If you push a cart with a force of 10 N and the cart has a mass of 2 kg
 
 - **Gravity Force:**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%209.png" width="40%" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%209.webp" width="40%" />
 
 - **g** is the acceleration due to gravity (approximately 9.8 m/s² on Earth)
 
@@ -110,7 +110,7 @@ Example: A book with a mass of 1 kg has a gravitational force of 1 kg×9.8 m/s
 
 - **Friction Force:**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2010.png" width="50%" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2010.webp" width="50%" />
 
 - **μ** is the coefficient of friction
 - **N** is the normal force (the force perpendicular to the surface)
@@ -121,7 +121,7 @@ Example: If the coefficient of friction is 0.5 and the normal force is 10 N, the
      **Distance Covered with Constant Motion:**
 ```
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2011.png" width="50%" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2011.webp" width="50%" />
 
 - **d** is the distance covered (in meters, m)
 
@@ -137,13 +137,13 @@ Example: If the coefficient of friction is 0.5 and the normal force is 10 N, the
     **Distance Covered with Uniform Acceleration:**
   ```
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2012.png" width="50%" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2012.webp" width="50%" />
 
 - **v_i** is the initial velocity (in m/s)
 - **a** is the acceleration (in m/s²)
 - **t** is the time (in seconds, s)
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2013.png" width="90%" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2013.webp" width="90%" />
 
 **Engineering Connection:** Engineers use these principles to design and test machines, vehicles, and structures to ensure they work safely and efficiently.
 
@@ -169,8 +169,8 @@ Mechanical Advantage tells us how much a machine increases the force you apply. 
 - **Mechanical Advantage (MA) for Levers:**
 
   <p>
-    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2014.png" width="50%" />
-    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2015.png" />
+    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2014.webp" width="50%" />
+    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2015.webp" />
   </p>
 
   Example: If a seesaw has an effort arm of 2 meters and a load arm of 1 meter, the mechanical advantage is 2 m / 1 m = 2. This means you can lift a load with half the force by using this lever.
@@ -179,7 +179,7 @@ Mechanical Advantage tells us how much a machine increases the force you apply. 
 
 ### **Without Pulley**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2016.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2016.webp" />
 
 With no pulley - the effort force is _similar_ to the load - in opposite direction.
 
@@ -197,7 +197,7 @@ So, the mechanical advantage will be 1
 
 #### **Fixed Pulley**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2017.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2017.webp" />
 
 With a single fixed pulley the effort force is _similar_ (or more due to efficiency loss) to the load.
 
@@ -209,7 +209,7 @@ So, the mechanical advantage will be 1
 
 #### **Movable Pulley**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2018.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2018.webp" />
 
 With a single moveable pulley the effort force is _half_ (or more due to efficiency loss) of the load.
 
@@ -219,7 +219,7 @@ So the mechanical advantage will be 2
 
 ### **Combined Pulleys**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2019.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2019.webp" />
 
 With a combined moveable pulley as above - the effort force is _half_ (or more due to efficiency loss) of the load.
 
@@ -229,7 +229,7 @@ Here, the mechanical advantage will be 2
 
 To understand the concept of mechanical advantages in pulleys we can see this picture:
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2020.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2020.webp" />
 
 This demonstrates a few pulley setups. First, we’ll look at pulley system 1. This is a simple pulley, and in order to keep a weight pulling with 100 N of force up in the air, you have to pull with 100 N. This is because all of the weight of the block creates a tension on that one single rope, and you have to pull with the same force. Since the ratio between weight force and the required force is 1:1, the mechanical advantage is 1. Pretty easy.
 
@@ -241,9 +241,9 @@ Again, with pulley system 3, we have divided up the force of the weight, but thi
 
 - **Efficiency:** **Efficiency is denoted by η.**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2021.png" width="40%" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2021.webp" width="40%" />
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2022.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2022.webp" />
 
 **Engineering Connection:** Engineers use simple machines to create complex tools and systems. For instance, cranes use pulleys to lift heavy objects with less effort.
 
@@ -255,16 +255,16 @@ Again, with pulley system 3, we have divided up the force of the weight, but thi
 
 - **Kinetic Energy (KE):**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2023.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2023.webp" />
 
 - **m** is mass (in kg)
 - **v** is velocity (in m/s)
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2024.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2024.webp" />
 
 - **Potential Energy (PE):**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2025.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2025.webp" />
 
 - **m** is mass (in kg)
 - **g** is gravitational acceleration (9.8 m/s²)
@@ -284,7 +284,7 @@ Example: A book with a mass of 2 kg on a shelf 5 meters high has a potential ene
 
 - **Work:**
 
-<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2026.png" />
+<img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2026.webp" />
 
 - **W** is the work (in J)
 - **F** is the force (in N)
@@ -295,8 +295,8 @@ Example: If you push a box with a force of 10 N over a distance of 5 meters, the
 - **Power:**
 
   <p>
-    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2027.jpg" />
-    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2028.png" />
+    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2027.webp" />
+    <img src="https://raw.githubusercontent.com/STEAMer-Academy/Steamer-Blogs/refs/heads/main/Engineering/Part%201/Images/image%2028.webp" />
   </p>
 
   - **P** is the power (in W)
